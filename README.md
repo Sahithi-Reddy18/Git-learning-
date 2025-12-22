@@ -2,13 +2,13 @@
  
  This documentation contains the concepts of Learn Git Branching.
  
- #Learn Git Branching
+ # Learn Git Branching
  
  Git branching is the process of creating a new pointer to a commit, allowing parallel development without affecting the main code.
  
- #Level-1 [Introduction Sequence ]
+ # Level-1 [Introduction Sequence ]
 
- #1.Introduction to Git Commits
+ # 1.Introduction to Git Commits
  
  What is Git Commit?
  
