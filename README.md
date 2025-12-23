@@ -232,6 +232,25 @@ Reversing changes in Git refers to the process of undoing or rolling back modifi
 
 # Commands Executed
 ```bash
+git checkout local
+```
+```
+git reset --hard C1
+```
+```
+git checkout pushed
+```
+```
+git revert pushed
+```
+Git checkout local moves you to the local branch.
+
+Git reset --hard C1 moves the branch back to commit C1 and removes later changes.
+
+Git checkout pushed switches you to the pushed branch.
+
+Git revert pushed creates a new commit that undoes the changes made in the pushed commit.
+
 
 
 
